@@ -1,7 +1,7 @@
 <script>
 // Configure the blocker here:
 var stalker = {
-  forward: 'http://example.org/stop-stalking-me!!!!',
+  forward: 'https://weareerror404.com/',
   ip_addresses: ['127.0.0.1'],
   whitelist_ip_addresses: ['127.0.0.2'],
   cities: ['Seattle', 'Olympia'],
